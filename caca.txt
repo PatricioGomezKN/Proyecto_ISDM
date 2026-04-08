@@ -1,0 +1,1 @@
+Archivo de ejemplo, lo importante es saber los comandos de Git
